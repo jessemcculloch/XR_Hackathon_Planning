@@ -2,6 +2,6 @@
 
 This project is intended to provide resources that would allow anyone to put together a plan and execute an XR specific hackathon.
 
-[] Test checkbox
+- Pre-planning questionaire
 
 This information is free to use by anyone, and is available under an MIT open source [license](LICENSE).
