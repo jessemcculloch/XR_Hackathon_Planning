@@ -7,5 +7,19 @@ This project is intended to provide resources that would allow anyone to put tog
     - Website
     - Social Media
     - Email
+- Applications
+- Workshops
+- Equipment
+- Sponsorships
+- Scholarships
+- Food and Drink
+- Judging
+- Prizes
+- Opening Ceremony
+- Closing Ceremony
+- Mentors
+- Shipping
+- Showcase/Expo
+- Schedule
 
 This information is free to use by anyone, and is available under an MIT open source [license](LICENSE).
