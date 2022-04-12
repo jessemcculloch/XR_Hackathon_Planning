@@ -21,5 +21,7 @@ This project is intended to provide resources that would allow anyone to put tog
 - Shipping
 - Showcase/Expo
 - Schedule
+- Helpful Tools
+    - DevPost
 
 This information is free to use by anyone, and is available under an MIT open source [license](LICENSE).
