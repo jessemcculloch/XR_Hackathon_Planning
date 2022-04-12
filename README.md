@@ -21,6 +21,8 @@ This project is intended to provide resources that would allow anyone to put tog
 - Shipping
 - Showcase/Expo
 - Schedule
+- Logistics
+- Swag
 - Helpful Tools
     - DevPost
 
