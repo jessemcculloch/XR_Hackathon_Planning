@@ -2,6 +2,8 @@
 
 ### 12 months before hack
 
+- [ ] checkbox 1
+
 ### 11 months before hack
 
 ### 10 months before hack
