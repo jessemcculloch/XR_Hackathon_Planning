@@ -12,4 +12,3 @@
 - Team Formation
   - Max team size
   - Format?
-- 
